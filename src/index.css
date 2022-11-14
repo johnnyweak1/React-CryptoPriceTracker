@@ -5,9 +5,68 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #23374D;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.navbar {
+  height: 130px;
+  border-bottom: 4px white solid;
+  font-family: 'League Gothic', sans-serif;
+}
+
+.logo-position{
+  padding-left: 3%;
+  display: inline-block;
+  margin-top: 1%;
+}
+
+.navbar h3{
+  color: white;
+  font-size: 50px;
+  margin-block-start: 0px;
+  margin-block-end: -9px;
+}
+
+.navbar h4{
+  color: #1089FF;
+  font-size: 39px;
+  float: right;
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+ li {
+  display: inline;
+  color: white;
+ }
+ ul {
+  border-bottom: 3px solid white;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  padding-inline-start: 10px;
+ }
+
+ .price {
+  float: right;
+ }
+
+ .lower .price {
+  color: red;
+ }
+
+ .higher .price {
+  color: green;
+ }
+ .same .price {
+  color: white;
+ }
