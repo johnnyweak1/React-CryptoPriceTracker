@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CryptoPriceTracker/static/css/main.b05c293c.css",
+    "main.js": "/React-CryptoPriceTracker/static/js/main.9b7f5c20.js",
+    "index.html": "/React-CryptoPriceTracker/index.html",
+    "main.b05c293c.css.map": "/React-CryptoPriceTracker/static/css/main.b05c293c.css.map",
+    "main.9b7f5c20.js.map": "/React-CryptoPriceTracker/static/js/main.9b7f5c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05c293c.css",
+    "static/js/main.9b7f5c20.js"
+  ]
+}
